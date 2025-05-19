@@ -1,4 +1,4 @@
-PASOS:
+# PASOS:
 1- Clonar el repositorio: git https://github.com/celinapavez/52069.git 
 2- Abrir la carpeta en Visual Studio Code 
 3- En una terminal ejecutar node index.js: esto mostrará la Tabla de tokens y el Árbol de análisis sintáctico en forma escrita 
