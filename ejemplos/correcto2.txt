@@ -1,0 +1,12 @@
+configuracion sistema {
+  seccion red {
+    ip = "192.168.1.1";
+    puerto = 8080;
+    activo = verdadero;
+  }
+  seccion usuario {
+    nombre = "admin";
+    clave = "1234";
+    activo = falso;
+  }
+}
